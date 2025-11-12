@@ -1,0 +1,15 @@
+React is a Library. acc to docs-The library for web and native user interfaces
+
+Advantages of React:
+    1. Virtual DOM
+    2. Component based Architecture- 
+        -types of components- 
+        1. Functional (static changes) + Hooks ---> Now used for dynamic changes in React
+        2. class based(dynamic changes) ---> deprecated in React
+    3. No reloading for CSR(client side rendering) changes
+    4. Syntax JSX.
+    5. Faster
+
+Disadvanteges:
+    1. Poor Search Engine Optimization.
+    2. Unidirectional flow of data, only parent to child.

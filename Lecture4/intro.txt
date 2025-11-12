@@ -1,0 +1,3 @@
+useEffect() - a hook
+when there is sideEffect, we use useEffect();
+    sideEffect - those things dont effect DOM directly; like setTimeout(), api calling, etc
